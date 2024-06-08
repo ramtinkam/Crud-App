@@ -1,0 +1,23 @@
+aside {
+    width: 200px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 8px;
+    display: flex;
+    align-items: stretch;
+}
+main {
+   
+    margin-left: 240px;
+    margin-bottom: 60px;
+    
+}
+.sunken-panel{
+    width:fit-content;
+}
+
+label{
+    padding: 8px;
+}
